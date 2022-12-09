@@ -6,12 +6,13 @@ body {
   align-items: center;
 }
 textarea {
-  background: transparent;
+  background: lightgray;
   border: none;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+  
 }
 .jumbotron {
   text-align: center;
@@ -21,11 +22,12 @@ textarea {
   border-radius: 0;
   border-bottom: 5px solid black;
 }
-.description {
-  white-space: pre-wrap;
+.hour {
+  background-color: #ffffff;
+  border-top: 1px dashed;
 }
 i {
-  color: rgb(236, 13, 207);
+  color: rgb(7, 241, 66);
 }
 .saveBtn {
   border: 1px solid black;
@@ -33,4 +35,12 @@ i {
   border-bottom-right-radius: 15px;
   background-color: orange;
 }
-
+.present {
+  background-color: lightcoral;
+}
+.past {
+  background-color: darkgray;
+}
+.future {
+  background-color: lightgreen;
+}
