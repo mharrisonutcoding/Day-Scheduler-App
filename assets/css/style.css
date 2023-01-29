@@ -6,7 +6,7 @@ body {
   align-items: center;
 }
 textarea {
-  background: lightgray;
+  background: transparent;
   border: none;
   resize: none;
   color: #000000;
