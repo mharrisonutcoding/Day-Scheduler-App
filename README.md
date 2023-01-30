@@ -5,7 +5,6 @@
 # Usage
 The app will open and you will see gray for blocks that are earlier than the current time, and green blocks are all available time slots! 
 
-<iframe src="https://drive.google.com/file/d/1vKExWfOHITv3CzRjRqAv0azdsNzqK4uq/preview" width="640" height="480"></iframe>
 
 The site is responsive from mobile to desktop as well!
 
