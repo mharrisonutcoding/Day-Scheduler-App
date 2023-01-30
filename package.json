@@ -1,0 +1,19 @@
+{
+  "name": "day-scheduler-app",
+  "version": "1.0.0",
+  "description": "This application will allow a user to view an 8 hour time-block, add and save events, and view color coded blocks according to the current time. This application utilized Moment.js, a third party api that allows for the time to be updated and used for else if statements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharrisonutcoding/Day-Scheduler-App.git"
+  },
+  "author": "Michael Harrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mharrisonutcoding/Day-Scheduler-App/issues"
+  },
+  "homepage": "https://github.com/mharrisonutcoding/Day-Scheduler-App#readme"
+}
