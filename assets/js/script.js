@@ -9,6 +9,9 @@ $('.saveBtn').on("click", function() {
     localStorage.setItem(key, value);
 })
 
+// loops through each time block ID, displays value from local storage
+
+
 $('.time-block').each(function(){
     var id = $(this).attr('id');
     
